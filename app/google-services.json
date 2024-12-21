@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689818702197",
+    "project_id": "examen2024chat",
+    "storage_bucket": "examen2024chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689818702197:android:45d347503c11572cd6833c",
+        "android_client_info": {
+          "package_name": "com.example.examen_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucJNodSjVmoIsm-izA4Akd5jf9LlUyrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
